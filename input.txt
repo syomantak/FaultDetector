@@ -1,0 +1,5 @@
+4 in1 name2 3in 4th
+temp 0 gxx
+AND_2(in1,name2,temp); 
+AND_2(3in,4th,node#1);
+OR_2(node#1,temp,gxx);
